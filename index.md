@@ -16,6 +16,11 @@ _He was trying to swim to get back but he went into Gulf of Alaska. He reached s
 
 _He checked his GPS and found out he was at a national park. It was called Glacier Bay._
 
+![Infinity Lake]("InfinityLakeAlaska.svg")
+
+<b>Image Photo by SuiteCase Friend</b>
+
+<hr style="border:15px solid blue">
 
 _He explored the park.  It was beautiful and really liked it._  
 
@@ -41,12 +46,3 @@ _He gave her the translator plant so that she could talk to everyone. Kamala fox
 **The end**
 
 **Thank you for visiting my page**
-
-
-(src)
-![Image](src)
-
-
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ramacsv/Plant/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
