@@ -20,7 +20,7 @@ _He checked his GPS and found out he was at a national park. It was called Glaci
 
 <b>Image Photo by SuiteCase Friend</b>
 
-<hr style="border:15px solid blue">
+<hr style="border:10px solid blue">
 
 _He explored the park.  It was beautiful and really liked it._  
 
