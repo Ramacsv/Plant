@@ -16,7 +16,7 @@ _He was trying to swim to get back but he went into Gulf of Alaska. He reached s
 
 _He checked his GPS and found out he was at a national park. It was called Glacier Bay._
 
-![Infinity Lake]("InfinityLakeAlaska.svg")
+![Infinity Lake](InfinityLakeAlaska.svg)
 
 <b>Image Photo by SuiteCase Friend</b>
 
